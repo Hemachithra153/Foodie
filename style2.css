@@ -1,0 +1,17 @@
+body{
+    background: pink;
+}
+h1{
+    color: rgb(236, 79, 36);
+    background-size: cover;
+    position: absolute;
+    top:40%;
+    left:40%;
+}
+h2{
+    color: rgb(236, 79, 36);
+    background-size: cover;
+    position: absolute;
+    top:55%;
+    left:45%;
+}
